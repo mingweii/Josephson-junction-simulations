@@ -1,7 +1,6 @@
 
 .DS_Store
 .ipynb_checkpoints/
-*.mat
 *.csv
 *.pdf
 *.h5

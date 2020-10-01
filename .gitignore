@@ -7,4 +7,3 @@
 *.html
 *.nb
 __pycache__/
-*.mat

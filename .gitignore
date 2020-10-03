@@ -6,4 +6,5 @@
 *.h5
 *.html
 *.nb
+*.mat
 __pycache__/

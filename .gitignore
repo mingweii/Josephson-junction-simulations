@@ -7,4 +7,5 @@
 *.html
 *.nb
 *.mat
+*.png
 __pycache__/

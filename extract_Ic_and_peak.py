@@ -60,7 +60,7 @@ def extract_Ic(IDC_array,DVDI_array,d=1,h=0,num_Ic=2):
 
 
 
-def extract_height(IDC_array,DVDI_array,d,h):
+def extract_height(IDC_array,DVDI_array):#,d,h):
     peak_n=np.max(DVDI_array[IDC_array<0])
     peak_p=np.max(DVDI_array[IDC_array>=0])
     return peak_n,peak_p
